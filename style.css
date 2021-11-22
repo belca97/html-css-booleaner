@@ -1,0 +1,68 @@
+#container{
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-color: lightblue;
+    height: 100px;  
+    padding: 30px;  
+}
+
+#logo{
+    width: 150px;
+    height: 150px;  
+}
+
+.grey{
+    color:grey;
+}
+
+.yellow{
+    background-color: yellow;
+    border-radius: 2px;
+}
+
+
+table{
+    text-align: left;
+}
+
+th{
+    background-color:blue;
+}
+
+.tableraw-size{
+    width: 25%;
+}
+.lightblue{
+    background-color: lightblue;
+}
+
+footer h3{
+    color: grey;
+}
+
+.imagine-footer1{
+    background-image: url("img/monitor.jpg");
+    width: 500px;
+    height: 250px;
+    background-repeat: no-repeat;
+}
+
+.imagine-footer2{
+    background-image: url("img/graph.jpg");
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 250px;
+
+}
+
+
+
+.top-left{
+     top: 8px;
+     left: 16px;
+     color:orange;
+     padding: 20px;
+     font-size: 20px;
+     font-style: italic;
+    
+}
